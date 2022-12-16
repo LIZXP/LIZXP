@@ -3,7 +3,7 @@
 </div>  
   
 
-#### <div align="justify">I'm Peter Li, A Passionate Solution-driven Full-stack Web Developer comes from financial accounting background, and experience developing consumer-focused websites with PERN Stack - Front End in React.js, HTML, CSS & TypeScript, and Back End in Node.js, Express & PostgreSQL. Solid technical skills, excellent work ethic, strong attention to detail, great communication skills and the ability to transfer needs of clients into high-quality codes.  </div>  
+#### <div align="justify">I'm Peter Li, a full Stack Web Developer has background in the financial accounting. Passionate about streamlining and automating processes in apps to save users time and prioritize focus on business functions. Has the skills and experience necessary to be successful in web developer positions that require a combination of technical expertise and real-world business experience. </div>  
   
 
 
