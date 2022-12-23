@@ -3,7 +3,7 @@
 </div>  
   
 
-#### <div align="justify">I'm Peter Li, a full Stack Web Developer has background in the financial accounting. Passionate about streamlining and automating processes in apps to save users time and prioritize focus on business functions. Has the skills and experience necessary to be successful in web developer positions that require a combination of technical expertise and real-world business experience. </div>  
+#### <div align="justify">I'm Peter Li, Motivated and detail-oriented Full stack developer with expertise in JavaScript, React, and Python, seeking a challenging and dynamic role where I can use my technical skills and real-world business experience to create innovative solutions and drive positive impact. Proven ability to streamline processes and prioritize business functions, and a passion for continuously learning and staying up to date on the latest technologies.</div>  
   
 
 
