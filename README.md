@@ -10,7 +10,7 @@
 - 🔭 I’m currently looking for new and exciting opportunities to use my previous experience and newly acquired skills  
   
 
-- 🌱 I’m currently learning TypeScript and Next.js  
+- 🌱 I’m currently learning Python and Flask.
   
 
 - ❓ Ask me about anything related to PERN or MERN stack and related technologies  
