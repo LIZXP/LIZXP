@@ -71,6 +71,3 @@ DevOps & Test
 <a href="https://www.chaijs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/chai.png" alt="Chai" height="50" /></a>  
 </div>
 </td></tr></table>  
-<br/> 
-
----
